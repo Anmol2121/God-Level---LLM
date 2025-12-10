@@ -26,3 +26,7 @@ The model is implemented without using any pre-trained architectures, enabling f
 **2**
 
 ![image alt](https://github.com/Anmol2121/God-Level---LLM/blob/9c22c2cc119b43833f27a0272dda95e766b4c9cc/2.png)
+
+**3**
+
+![image alt](https://github.com/Anmol2121/God-Level---LLM/blob/45bfc660e5c2e0497c6742a8c1cb9fad8dcd6376/3.png)
