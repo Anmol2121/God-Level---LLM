@@ -17,6 +17,12 @@ The model is implemented without using any pre-trained architectures, enabling f
 
 **-Inference pipeline**
 
-# 🌀Chatbot Output Example
+# 🌀Chatbot Output 
+
+**1**
 
 ![image alt](https://github.com/Anmol2121/God-Level---LLM/blob/97d7fcdcee3232626e68226ac5ec10eed5e9834d/1.png)
+
+**2**
+
+![image alt](https://github.com/Anmol2121/God-Level---LLM/blob/9c22c2cc119b43833f27a0272dda95e766b4c9cc/2.png)
